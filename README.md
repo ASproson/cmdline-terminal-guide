@@ -52,4 +52,4 @@ Hello there, chances are you've come from my LinkedIn article about mastering Co
 
 ```echo 'knife' >> cutlery.txt``` Appends knife to the file cutlery.txt
 
-```grep 'spoo' cutlery.txt``` Uses regular expression to search cutlery.txt for any words containg 'spoo'
+```grep 'spoo' cutlery.txt``` Uses regular expression to search cutlery.txt for any words containing 'spoo'
